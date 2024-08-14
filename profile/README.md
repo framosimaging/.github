@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-horiz-500x200-2c50-d.png" width="250">
+<img src="https://assets.nvidiagrid.net/ngc/logos/Jetson.png" width="500">
 
 | Description                                                    | Repository                                                                           |
 |----------------------------------------------------------------|--------------------------------------------------------------------------------------|
