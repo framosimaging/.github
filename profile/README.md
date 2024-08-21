@@ -8,3 +8,11 @@
 | Framos V4L2 library & applications - LibSV | [framos-jetson-libsv](https://github.com/framosimaging/framos-jetson-libsv.git)                          |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/NXP_Semiconductors_logo_2023.svg/372px-NXP_Semiconductors_logo_2023.svg.png" width="250">
+
+| Description                                            | Repository                                                                           |
+|--------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Framos drivers - source files for image sensor drivers | [framos-nxp-drivers](https://github.com/framosimaging/framos-nxp-drivers)            |
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
