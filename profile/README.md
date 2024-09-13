@@ -13,6 +13,7 @@
 
 | Description                                            | Repository                                                                           |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Framos drivers - source files for image sensor drivers | [framos-nxp-drivers](https://github.com/framosimaging/framos-nxp-drivers)            |
+| Framos drivers - binary and source files for image sensor drivers | [framos-nxp-drivers](https://github.com/framosimaging/framos-nxp-drivers) |
+| Yocto meta layer | [meta-imx8mp-framos](https://github.com/framosimaging/meta-imx8mp-framos)                                                  |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
