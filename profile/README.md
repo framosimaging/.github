@@ -19,3 +19,11 @@
 | Nxp Streaming tool | [nxp-vis-tool](https://github.com/framosimaging/framos-nxp-vis-tool)                                                     |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://images.icon-icons.com/2699/PNG/512/raspberrypi_logo_icon_168030.png" width="380">
+
+| Description                                                    | Repository                                                                           |
+|----------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Framos drivers - source files for image sensor drivers         | [framos-rpi-drivers](https://github.com/framosimaging/framos-rpi-drivers)            |
+| Framos libcamera                                               | [framos-libcamera](https://github.com/framosimaging/framos-libcamera)                |
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
