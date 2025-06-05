@@ -1,6 +1,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://assets.nvidiagrid.net/ngc/logos/Jetson.png" width="500">
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/2560px-NVIDIA_logo.svg.png" width="230">
 
 | Description                                                    | Repository                                                                           |
 |----------------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -9,8 +10,9 @@
 | Framos OpenEB Software - forked from prophesee-ai/openeb         | [openeb](https://github.com/framosimaging/openeb.git)                                |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/NXP_Semiconductors_logo_2023.svg/372px-NXP_Semiconductors_logo_2023.svg.png" width="250">
+<br>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/NXP_Semiconductors_logo_2023.svg/372px-NXP_Semiconductors_logo_2023.svg.png" width="130">
 
 | Description                                            | Repository                                                                           |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------|
@@ -19,7 +21,9 @@
 | Nxp Streaming tool | [nxp-vis-tool](https://github.com/framosimaging/framos-nxp-vis-tool)                                                     |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://images.icon-icons.com/2699/PNG/512/raspberrypi_logo_icon_168030.png" width="380">
+<br>
+<br>
+<img src="https://images.icon-icons.com/2699/PNG/512/raspberrypi_logo_icon_168030.png" width="220">
 
 | Description                                                    | Repository                                                                           |
 |----------------------------------------------------------------|--------------------------------------------------------------------------------------|
