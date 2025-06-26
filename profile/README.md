@@ -9,6 +9,7 @@
 | Framos V4L2 library & applications - LibSV                       | [framos-jetson-libsv](https://github.com/framosimaging/framos-jetson-libsv.git)         |
 | Framos OpenEB Software - forked from prophesee-ai/openeb         | [openeb](https://github.com/framosimaging/openeb.git)                                   |
 
+**BETA Release**
 | Description                                                      | Repository                                                                              |
 |------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Framos Holoscan drivers - source files for image sensor drivers  | [framos-holoscan-drivers](https://github.com/framosimaging/framos-holoscan-drivers.git) |
