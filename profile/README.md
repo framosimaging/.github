@@ -3,11 +3,15 @@
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/2560px-NVIDIA_logo.svg.png" width="230">
 
-| Description                                                    | Repository                                                                           |
-|----------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Framos drivers - source files for image sensor drivers for L4T | [framos-jetson-drivers](https://github.com/framosimaging/framos-jetson-drivers.git)  |
-| Framos V4L2 library & applications - LibSV | [framos-jetson-libsv](https://github.com/framosimaging/framos-jetson-libsv.git)                          |
-| Framos OpenEB Software - forked from prophesee-ai/openeb         | [openeb](https://github.com/framosimaging/openeb.git)                                |
+| Description                                                      | Repository                                                                              |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Framos drivers - source files for image sensor drivers for L4T   | [framos-jetson-drivers](https://github.com/framosimaging/framos-jetson-drivers.git)     |
+| Framos V4L2 library & applications - LibSV                       | [framos-jetson-libsv](https://github.com/framosimaging/framos-jetson-libsv.git)         |
+| Framos OpenEB Software - forked from prophesee-ai/openeb         | [openeb](https://github.com/framosimaging/openeb.git)                                   |
+
+| Description                                                      | Repository                                                                              |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Framos Holoscan drivers - source files for image sensor drivers  | [framos-holoscan-drivers](https://github.com/framosimaging/framos-holoscan-drivers.git) |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
