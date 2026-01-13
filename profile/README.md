@@ -17,7 +17,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/NXP_Semiconductors_logo_2023.svg/372px-NXP_Semiconductors_logo_2023.svg.png" width="130">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/NXP_Semiconductors_logo_2023.svg" width="130">
 
 | Description                                            | Repository                                                                           |
 |--------------------------------------------------------|--------------------------------------------------------------------------------------|
