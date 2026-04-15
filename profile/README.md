@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/2560px-NVIDIA_logo.svg.png" width="230">
+<img src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/about-nvidia/legal-info/logo-brand-usage/_jcr_content/root/responsivegrid/nv_container_392921705/nv_container_412055486/nv_image.coreimg.svg/1776076920317/nvidia-logo-horz.svg" width="400">
 
 | Description                                                      | Repository                                                                              |
 |------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
